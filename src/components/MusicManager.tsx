@@ -23,11 +23,11 @@ interface MusicContextType {
 const MusicContext = createContext<MusicContextType | undefined>(undefined);
 
 const TRACKS: Record<TrackType, string> = {
-  intro: "/music/intro.mp3",
-  memories: "/music/memories.mp3",
-  funny: "/music/funny.mp3",
-  future: "/music/future.mp3",
-  finale: "/music/finale.mp3",
+  intro: "music/intro.mp3",
+  memories: "music/memories.mp3",
+  funny: "music/funny.mp3",
+  future: "music/future.mp3",
+  finale: "music/finale.mp3",
 };
 
 export function MusicProvider({ children }: { children: React.ReactNode }) {
