@@ -113,7 +113,7 @@ export default function Section10Finale() {
             >
               <MediaLoader
                 type="image"
-                src={`photos/montage${i + 1}.jpg`}
+                src={`/photos/montage${i + 1}.jpg`}
                 alt="Montage item"
                 fallbackText={`Chapter ${i + 1}`}
                 fallbackGradient="from-slate-950 via-[#07010f] to-slate-950"

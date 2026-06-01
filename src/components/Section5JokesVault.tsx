@@ -221,7 +221,7 @@ export default function Section5JokesVault() {
                 <div className="md:col-span-2 aspect-video rounded-2xl overflow-hidden border border-gold/20 shadow-[0_0_25px_rgba(212,175,55,0.1)]">
                   <MediaLoader
                     type="image"
-                    src="photos/funny_main.jpg"
+                    src="/photos/funny_main.jpg"
                     alt="Comical Highlight"
                     fallbackText="Absolute Comedy Classic"
                     fallbackGradient="from-yellow-950/30 via-slate-900 to-amber-950/30"

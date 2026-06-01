@@ -26,7 +26,7 @@ const ITEMS: ParallaxItem[] = [
     desc: "Happy 22nd brooooooo you're now officially too old to be called an aunty so   you have been promotion to senior aunty so congratulations on that... Hopefully your brain cells get a promotion too...Kay in all seriousness we want to wish you a very happy and prosperous birthday this year. You've been such a great friend. Happy Birthday Jenipher aunty! Another year older, another year closer to yelling at your kids neeyelam yesapa pellaiya. Wishing you lots of cake, happiness, and the ability to get up from a chair without making weird noises and also to stay up after 9pm! P. S. You are the youngest senior citizen we know.",
     icon: Sparkles,
     color: "from-purple-950/45 to-slate-900/60",
-    imageSrc: "photos/relive1.jpg",
+    imageSrc: "/photos/relive1.jpg",
   },
   {
     id: 2,
@@ -34,7 +34,7 @@ const ITEMS: ParallaxItem[] = [
     title: "Love from Jenii",
     icon: AlertTriangle,
     color: "from-rose-950/45 to-slate-900/60",
-    imageSrc: "videos/Relive2.mp4",
+    imageSrc: "/videos/Relive2.mp4",
     mediaType: "video",
     unmuted: true,
     controls: true,
@@ -46,7 +46,7 @@ const ITEMS: ParallaxItem[] = [
     desc: "Erumaa really you're an amzing friend, naraya sollanum nu plan pannae but itha edit pannum pothu time illa, unaku ellame therium!! Have a wonderful blessed year!!",
     icon: Compass,
     color: "from-teal-950/45 to-slate-900/60",
-    imageSrc: "photos/relive3.jpg",
+    imageSrc: "/photos/relive3.jpg",
   },
 ];
 

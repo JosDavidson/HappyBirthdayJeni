@@ -20,7 +20,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Sept 14, 2024",
     title: "The Day We Met as Team",
     desc: "Mental Fellow, I still remeber that day, with that calm smile, and greetings from you made me feel comfortable to stay there...",
-    mediaSrc: "photos/1.jpg",
+    mediaSrc: "/photos/1.jpg",
     mediaType: "image",
   },
   {
@@ -28,7 +28,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Oct 26, 2024",
     title: "Buy me chocolate cake at CCD!!",
     desc: "Antha MoM ahh olunga submit panniya? Aprm IAESTE co-ordinator picture, heads celebration ella mass irunthuchi laa??",
-    mediaSrc: "photos/2.jpg",
+    mediaSrc: "/photos/2.jpg",
     mediaType: "image",
   },
   {
@@ -36,7 +36,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Oct 29, 2024",
     title: "Corporate Service",
     desc: "Epome aunty marii dress pannitu, anniki thaa konjam okayy ahh irunthuchii..",
-    mediaSrc: "photos/3.jpg",
+    mediaSrc: "/photos/3.jpg",
     mediaType: "image",
   },
   {
@@ -44,7 +44,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Nov 09, 2024",
     title: "Late Night Stories..",
     desc: "Intha picture paakum pothu thaa niyabagam varudhu, intha pic edit pannitu irukum pothu nama katha pesittu irunthom... enna kathanu theriumaa???",
-    mediaSrc: "photos/4.jpeg",
+    mediaSrc: "/photos/4.jpeg",
     mediaType: "image",
   },
   {
@@ -52,7 +52,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Dec 17, 2024",
     title: "Naa varala pa Megaplay la paada",
     desc: "Olunga smile pannite paaduna mental, anga ninnu aluthutu iruka..!!",
-    mediaSrc: "photos/5.jpg",
+    mediaSrc: "/photos/5.jpg",
     mediaType: "image",
   },
   {
@@ -60,7 +60,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Dec 20, 2024",
     title: "Alumunchii, alatha erumaa...",
     desc: "Shaunah Birthday celeb! Lab la irunthu poi sollitu vara vachitala..",
-    mediaSrc: "videos/6.mp4",
+    mediaSrc: "/videos/6.mp4",
     mediaType: "video",
   },
   {
@@ -68,7 +68,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Mar 17, 2025",
     title: "video call ahh.. illa gmeet uhh!!",
     desc: "Athukula nama avlo pesa start pannitoma?? Brooo sama comedy ahh iruka paaru..",
-    mediaSrc: "videos/7.mp4",
+    mediaSrc: "/videos/7.mp4",
     mediaType: "video",
   },
   {
@@ -76,7 +76,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Aug 02, 2025",
     title: "Concert kuu paada variyaa??",
     desc: "mass ahh irunthuchii, un anne thaa seeeenn ahh potutu irunthan",
-    mediaSrc: "photos/8.jpg",
+    mediaSrc: "/photos/8.jpg",
     mediaType: "image",
   },
   {
@@ -84,7 +84,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Sep 29, 2025",
     title: "Intha Pic nalla irukuu erumaa",
     desc: "chaa anniku lab uniform, but okayy neengala nalla thaa irukinga..",
-    mediaSrc: "photos/9.jpg",
+    mediaSrc: "/photos/9.jpg",
     mediaType: "image",
   },
   {
@@ -92,7 +92,7 @@ const MEMORIES: MemoryItem[] = [
     date: "Oct 01, 2025",
     title: "Canteen la katha kudathuu lusuu",
     desc: "Unakum Quiton ku cake vangitu vanthaa, Jeni ahh cut panna sollitu irukaa erumaa fellow..",
-    mediaSrc: "photos/10.jpg",
+    mediaSrc: "/photos/10.jpg",
     mediaType: "image",
   },
 ];
